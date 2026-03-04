@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "insert-faq",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "19852a17-da12-4c08-8274-406beffcd212",
+			"database_name": "rabitabank"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
